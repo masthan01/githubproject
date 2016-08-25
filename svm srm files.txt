@@ -1,0 +1,9 @@
+devops defination ;devops is a process of optimising collaberation btween devlopep ment t
+eam opeariotn team enabilg more freqventy relrseses,
+
+	
+ contius integariton is the process automatillacal bulidind and testing the soft in regulear basics to prevent integartion issues at the earilest
+
+git is disturduting, soft configarition mangement,virtual controol tool track the changes,stremline rec
+
+contious delivery,contiunsdepoly,contouis integartion...
